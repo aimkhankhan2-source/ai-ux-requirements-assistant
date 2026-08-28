@@ -1,0 +1,11 @@
+{
+  "name": "ai-ux-requirements-assistant",
+  "version": "2.0.0",
+  "private": true,
+  "description": "A prompt-driven UX workflow: turns a messy user problem into a ready-to-paste AI prompt for a structured, Figma-ready UX design brief. No API key, no server, no paid AI calls.",
+  "scripts": {
+    "install:all": "npm install --prefix client",
+    "dev": "npm run dev --prefix client",
+    "build": "npm run build --prefix client"
+  }
+}
